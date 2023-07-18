@@ -1,4 +1,4 @@
-These are the converted model weights for Llama-2-7B in Huggingface format.
+These are the converted model weights for Llama-2-7B-chat in Huggingface format.
 
 
 ---
